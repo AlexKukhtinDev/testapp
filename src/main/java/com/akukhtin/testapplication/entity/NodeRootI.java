@@ -3,6 +3,6 @@ package com.akukhtin.testapplication.entity;
 common node interface
  */
 public interface NodeRootI {
-  long getId();
+  Long getId();
   String getName();
 }
